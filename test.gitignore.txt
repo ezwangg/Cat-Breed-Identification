@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.h5
+*.keras
+*.ckpt
+saved_model/
+.env
+.ipynb_checkpoints/
